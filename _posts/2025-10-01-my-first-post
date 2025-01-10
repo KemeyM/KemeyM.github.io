@@ -1,0 +1,12 @@
+---
+layout: post
+title: How I've built my website
+subtitle: Just a summary
+categories: Website
+tags: [Github, website]
+---
+I created  a GitHub account
+I forked a repository from https://github.com/datamaunz
+I renamed the fork repository KemeyM.github.io
+I edited the files as described in the README.md
+Now I'm making my first post
